@@ -1,2 +1,2 @@
 # Notepad-JavaFX
-Notepad Application implemented in Javafx.
+Notepad Application that has most of the functionalities in notepad apps implemented in Javafx.
